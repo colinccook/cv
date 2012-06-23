@@ -1,0 +1,109 @@
+/* printing specific CSS */
+@media all
+{
+	.page-break  { display:none; }
+}
+
+@media print
+{
+	.page-break  { display:block; page-break-before:always; }
+	#hobbiesandinterests h2 { padding-top: 1cm; }
+	#references h2 { padding-top: 1cm; }
+}
+
+@page 
+{
+	size: auto;   /* auto is the initial value */
+	margin: 0mm;  /* this affects the margin in the printer settings */
+}
+
+/* regular CSS */
+body
+{
+	background-color: #bbb;
+	text-align: center;
+	line-height: 24px;
+	color: #555;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: arial;
+	font-size: 90%;
+}
+
+#container 
+{
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+	background-color: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#me h1
+{
+	background-color: #000;
+	color: #fff;
+	font-size:480%;
+	padding: 10px 5px 10px 5px;
+}
+
+#content
+{
+	margin: 20px;
+}
+
+#statement
+{
+	border: 1px solid #aaa;
+	text-align: justify;
+}
+
+#statement p
+{
+	margin: 10px;
+}
+
+#sxscontainer
+{
+	margin-top: 20px;
+}
+
+#education
+{
+	float: left;
+	width: 250px;
+}
+
+#education div.qual p.qualcontent
+{
+	margin-bottom: 0px;
+}
+
+#education div.qual p.qualestablishment
+{
+	margin-top: 0px;
+	font-style:italic;
+}
+
+#employment
+{
+	float: right;
+	width: 650px;
+}
+
+#employment p.jobdescription
+{
+	margin-bottom: 0px;
+}
+
+#employment ul.jobachievementlist
+{
+	margin-top: 0px;
+}
+
+#hobbiesandinterests
+{
+	clear:both;
+	padding-top: 10px;
+}

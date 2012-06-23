@@ -1,0 +1,11 @@
+/* hover effects css */
+.qualtype:hover, .qualcontent:hover, .qualestablishment:hover, .jobtitle:hover, .jobdescription:hover, .jobachievementlist:hover, .jobachievementitem:hover
+{
+	background-color: #FFCCCC;
+	cursor: hand; cursor: pointer;
+}
+
+@media print
+{
+	#printbutton  { visibility:hidden; }
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xslt" type="text/xsl" ?>
+<cv>
+	<me
+		name="Donald F Duck"
+		address="1313 Webfoot Walk in Duckburg, Calisota, 12345"
+		telephone="1-800-BAD-DUCK"
+		email="donald.duck@disney.com">
+		One of the <strong>most popular</strong> of the Disney cartoon characters, Donald Duck made his debut in the Silly Symphony cartoon "The Wise Little Hen" on June 9, 1934. His fiery temper endeared him to audiences, and in the 1940s he <strong>surpassed Mickey Mouse in the number of cartoons reaching the theaters</strong>. Eventually, there were <strong>128</strong> Donald Duck cartoons, but he also appeared in a number of others with Mickey Mouse, Goofy, and Pluto. A daily Donald Duck newspaper comic strip began on February 7, 1938.
+	</me>
+	<education>
+		<qualification
+			establishment="Calisota University"
+			type="Degree"
+			from="2006"
+			to="2009">
+			Upper <strong>second class honours</strong> in the degree of <strong>Bachelor of Science</strong> in <strong>Ship Building</strong>.
+		</qualification>
+		<qualification
+			establishment="Calisota College"
+			type="Degree"
+			from="2003"
+			to="2005">
+			Passed Foundation Year Pathway to <strong>21st Century Ship Building</strong> degree.
+		</qualification>
+		<qualification
+			establishment="Calisota College"
+			type="Higher Education"
+			from="2001"
+			to="2003">
+			A grade in <strong>A-Level Maths</strong><br/>
+			B grade in <strong>A-Level Engineering</strong><br/>
+			D grade in <strong>A-Level Biology</strong><br/>
+		</qualification>
+		<qualification
+			establishment="Calisota High School for Ducks"
+			type="High School"
+			from="1999"
+			to="2000">
+			A grade in <strong>Maths</strong><br/>
+			B grade in <strong>Engineering</strong><br/>
+			D grade in <strong>Biology</strong><br/>
+		</qualification>
+	</education>
+	<employment>
+		<experience
+			establishment="Square Enix"
+			job_title="Kingdom Hearts"
+			from="Jun 2002"
+			to="Sep 2002">
+			<description>The game combines characters and settings from Disney animated features with those from Square's Final Fantasy series.</description>
+			<achievement>Has magical powers.</achievement>
+			<achievement>Impressive artificial intelligence.</achievement>
+			<achievement>Another really interesting achievement goes here.</achievement>
+			<achievement>Never forget to spellcheck your CV.</achievement>
+			<achievement>You can quite easily copy the entirety of this document into Word and it will maintain its structure.</achievement>
+			<achievement>Donald Duck would.</achievement>
+		</experience>
+		<experience
+			establishment="Walt Disney Feature Animation"
+			job_title="Who Framed Roger Rabbit"
+			from="Jun 1988"
+			to="Sep 1988">
+			<description>The film combines live action and animation, and is based on Gary K. Wolf's novel Who Censored Roger Rabbit?, which depicts a world in which cartoon characters interact directly with human beings.</description>
+			<achievement>Played on a piano duel.</achievement>
+			<achievement>Co-worked with other actors.</achievement>
+			<achievement>Can't think of anything else to write.</achievement>
+		</experience>
+		<experience
+			establishment="Disney"
+			job_title="Don Donald"
+			from="Jun 1937"
+			to="Sep 1937">
+			<description>The cartoon follows Donald Duck attempting to woo a female Mexican duck named Donna.</description>
+			<achievement>The first installment of the Donald Duck series.</achievement>
+			<achievement>First to feature Donald as the primary starring character.</achievement>
+			<achievement>First to introduce a love interest for Donald.</achievement>
+		</experience>
+		<experience
+			establishment="Disney"
+			job_title="Orphan's Benefit"
+			from="Jun 1934"
+			to="Sep 1934">
+			<description>Orphan's Benefit is an American animated short film produced by Walt Disney Productions.</description>
+			<achievement>First worked with Micky Mouse.</achievement>
+			<achievement>Significantly developed character.</achievement>
+			<achievement>extensive use of character animation which was used to physically convey personality.</achievement>
+		</experience>
+	</employment>
+	<hobandint>
+		<p>In the 1940s, Donald was adopted as an unofficial mascot by Brazilian sports club Botafogo after Argentinean cartoonist Lorenzo Mollas, who was working in Brazil at the time, drew him with the club's soccer uniform. Mollas chose Donald because he complains and fights for his rights, like the club's managers at those years, and also because, being a duck, he does not lose his elegance while moving in the water (an allusion to rowing). He was eventually replaced so that the club would not have to pay royalties to Disney (Botafogo's current official mascot is "Manequinho", representing the Manneken Pis statue in front of the club's head office), but has since retained the status of unofficial mascot.</p>
+		<p>Donald's name and image are used on numerous commercial products, one example being Donald Duck brand orange juice, introduced by Citrus World in 1940.</p>
+		<p>Donald Duck was temporarily listed as a "hired" employee in the database of the United States Department of Housing and Urban Development as late as 1978. Given a $99,999 salary — more than double the $47,500 take federal civil servants were legally limited to be paid at the time — the name was unchallenged by a computer intended to catch government payroll fraud. Picked as one of thirty fictitious names by the Government Accounting Office, the use of it was a test to see if the payroll system of the HUD could be manipulated to defraud the government.</p>
+		<p>Donald Duck's head and neck, wearing a radio headset and wrapped in earphone wires with an expression of pain on his face and with crossed crutches below, was the nose art on Lieutenant Ted W. Lawson's B-25 Mitchell bomber, the Ruptured Duck, on the famous Doolittle Raid on Tokyo in 1942.</p>
+		<p>In the 1950s, an early Mad Magazine parody of Mickey Mouse (called "Mickey Rodent", written by "Walt Dizzy") featured "Darnold Duck", whose quacky voice had to be "translated" for the readers, and who was shamed into finally wearing pants.</p>
+		<p>Although Donald's military service has most been recognized as him in the US Army from his wartime cartoons (and to a lesser extent having Donald in the US Navy from Duck Tales), Walt Disney had authorized Donald to be used as a mascot for the US Coast Guard. The Coast Guard image shows a fierce-looking Donald Duck dressed in a pirate's outfit, appearing vigilant against any potential threats to the coastal regions in the United States. This image is still often used on many Coast Guard bases and Coast Guard cutters today.</p>
+		<p>Donald Duck is referred to in the song "The Village Green Preservation Society" by The Kinks: "We are the Village Green Preservation Society/ God save Donald Duck, vaudeville and variety..." The reference is ironical, as the singer is lamenting the disappearance of perceived traditional English cultural artifacts.</p>
+	</hobandint>
+	<references>
+		<contact
+			email="mickymouse@gmail.com"
+			telephone="0021 2122 0121"
+			relationship="Co-worker at Disney">
+			Micky Mouse
+		</contact>
+		<contact
+			email="daisyduck@disney.com"
+			telephone="03212 4512 121"
+			relationship="Manager at Square Enix">
+			Daily Duck
+		</contact>
+	</references>
+</cv>
