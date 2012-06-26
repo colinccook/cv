@@ -4,11 +4,22 @@ CV in XML/XSLT
 In Summary
 ----------
 
-This project allows you to store the data of your CV/Curriculum vitae/Resume in easily editable XML format. An attached XSLT document then transforms this into a simple, clean but generic 2 page CV. 
+This project's purpose is to make my CV writing, customising and publishing (to printer/PDF) FAR easier and open.
 
-Please note that printing web pages is a pain, and I've therefore focused exclusively on Google Chrome. All other browsers are untested!
+Essentially, you store all your CV and previous history data in XML. This is transformed to an elegant but plain HTML page using the included XSLT. Using Google Chrome, you can then click on any history you wish to remove (showing only what is important to the job you're applying for). 
+
+As the web page is optimised for printing, you can use Google Chrome's fantastic 'Print Preview' feature to confirm its appearance before printing. The default template page breaks to a nice 2 page CV, although this is editable of course.
 
 DISCLAIMER: THIS TEMPLATE IS JUST THAT, A TEMPLATE. THIS IS NOT A DISCUSSION ON HOW A CV SHOULD BE FORMATTED OR LAID OUT. THIS PROJECT IS AN EXAMPLE OF WHAT CAN BE DONE AND WILL HOPEFULLY SAVE YOU THE FEW HOURS I USED TO GET IT GOING.
+
+Why the reliance on Google Chrome?
+----------------------------------
+
+I wanted to make the process of editing and printing as simple as possible. Whilst I could have written another XSLT for PDF specific output, I just wanted the one for all.
+
+Moreover, browser support for printing varies and is a horrific pain. I've therefore focused exclusively on Google Chrome as it's print preview facilities are excellent, and its availability on all major platforms.
+
+All other browsers are untested, but as said, I've not intended this project to be deployed to a public web server. Merely as a go-between between the data in the XML and outputting to a printer/PDF.
 
 Usage
 -----
@@ -62,6 +73,7 @@ I would be very excited to receive any pull requests, but there are certain feat
  + The 'click to delete' feature is a bit buggy, doesn't always delete when you click in the 'wrong' part of an element.
  + Ensure everything is cross compatible
  + Would be nice for the supercv-example.xml file to be cross compatible, even with IE (just to have an example)
+ + I think I should include an example that's quite quick to view
 
 Donald F Duck?
 --------------
