@@ -51,7 +51,7 @@ Merge XML/XSLT/CSS
 
 If you feel confident the CSS of your CV is cross browser compatible, it is possible to merge your XML, XSLT and CSS files together to have one super .XML file that does everything for distribution. This has to be done manually.
 
-The file inside 'supercv-example' shows XML, XSLT and CSS merged (edit features are absent only because cvedit.js and cvedit.css files are not in the same directory). 
+The file 'examples/combined.xml' shows XML, XSLT and CSS merged (edit features are absent only because cvedit.js and cvedit.css files are not in the same directory). 
 
 It will not be maintained so will not change, but only serves as an example of what is possible.
 
@@ -80,8 +80,6 @@ I would be very excited to receive any pull requests, but there are certain feat
  + Proper XML dates as opposed to hard coded strings?
  + The 'click to delete' feature is a bit buggy, doesn't always delete when you click in the 'wrong' part of an element.
  + Ensure everything is cross compatible
- + Would be nice for the supercv-example.xml file to be cross compatible, even with IE (just to have an example)
- + I think I should include an example that's quite quick to view
 
 Donald F Duck?
 --------------
