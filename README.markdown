@@ -1,6 +1,8 @@
 CV in XML/XSLT
 ==============
 
+![A preview of what the project looks like](https://github.com/colinccook/cv/raw/master/examples/example-image.png)
+
 In Summary
 ----------
 
@@ -12,7 +14,7 @@ As the web page is optimised for printing, you can use Google Chrome's fantastic
 
 DISCLAIMER: THIS TEMPLATE IS JUST THAT, A TEMPLATE. THIS IS NOT A DISCUSSION ON HOW A CV SHOULD BE FORMATTED. THIS PROJECT IS AN EXAMPLE OF WHAT CAN BE DONE AND WILL HOPEFULLY SAVE YOU THE FEW HOURS I USED TO GET IT GOING.
 
-[You can download the included PDF separately to preview what the CV looks like here.](https://github.com/colinccook/cv/raw/master/Donald%20F%20Duck.pdf)
+[You can download the included PDF separately to preview what the CV looks like here.](https://github.com/colinccook/cv/raw/master/examples/example-pdf.pdf)
 
 Why the reliance on Google Chrome?
 ----------------------------------

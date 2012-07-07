@@ -42,10 +42,12 @@ body
 
 #me h1
 {
-	background-color: #000;
-	color: #fff;
-	font-size:480%;
-	padding: 10px 5px 10px 5px;
+	font-size:580%;
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: -3px;
+	margin-left: 20px;
 }
 
 #content
